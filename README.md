@@ -2,7 +2,7 @@
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
-To execute Windows basic commands and batch scripting
+To execute Windows basic commands and batch scripting  
 
 # DESIGN STEPS:
 
